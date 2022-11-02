@@ -1,0 +1,224 @@
+.deux img{
+    width: 450px;
+    height: 490px;
+    margin-top: 0px;
+}
+
+ .deux{
+    position: relative;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 0px;
+    
+} 
+
+ .phrase{
+    position: absolute;
+    color: white;
+    top: 395px;
+    background-color: rgba(233, 70, 41, 0.7);
+    width: 100%;
+    margin-right: 400px;
+} 
+
+
+.tout{
+
+    background-image: linear-gradient(to left, red, purple);
+     display: flex; 
+     justify-content: center;
+     align-items: center;
+     padding: 130px;
+     margin: auto;
+     height: 100%;
+     width: 60%;
+}
+
+/* -------------------------------------------------------------------------------------------------------- */
+
+body{ 
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+.une{
+    padding: 1px;
+    margin: 0px;
+    background-color: rgb(2, 2, 32);
+    width: 450px;
+    height: 490px;
+
+}
+
+.une input{
+    width: 190px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    background: none;
+    padding-left: 5px;
+}
+
+.une input[type="submit"]{
+    height: 30px;
+    width: 150px;
+    margin: 8px 0px 6px 90px;
+    background-image: linear-gradient(to bottom, hsla(335, 35%, 25%, 0.925), rgb(2, 2, 32));
+    color: white;
+    text-transform: uppercase;
+    border: none;
+} 
+
+.une textarea{
+    width: 190px;
+    height: 50px; 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    background: none;
+   
+}
+
+.une label{
+    display: inline-block;
+    width: 180px;
+    height: 10px;
+    padding: 8px 0px 10px 15px; 
+    color: white;
+}
+
+.une select{
+    width: 50px;
+    height: 20px;
+    border: none;
+    background: none;
+    color: white;
+    font-weight: bold;
+}
+
+.une h1{
+    text-align: center;
+    color:  #a30849ec;
+}
+
+#price input{
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.image img{
+    width: 500px;
+    height: 549px;
+}
+.image{
+    margin: 1px 0 0 0px; 
+
+}
+
+.section{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+     padding: 130px;
+     margin: auto;
+     height: 100%;
+}
+
+.form{
+    padding: 30px;
+    margin: 0px 0 4px 0;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 490px;
+    color: white;
+}
+.form input{
+    border-width: 0 0 1px 0;
+    background: none;
+    width: 190px;
+    height: 40px;
+
+}
+
+.form select{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+    color: white;
+    width: 190px;
+    height: 40px;
+
+}
+
+.buton {
+    display: flex;     
+}
+
+.buton p{
+    margin: 0px 10px 0px 10px;
+    padding-top: 2px; 
+}
+
+.p1 p{
+    border: 1px solid black;
+    background-color:rgb(196, 157, 89);
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    padding: 4px;
+} 
+
+.p p, .p2 p, .p3 p, .p4 p{
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 60px;
+    width: 35px;
+    height: 30px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+#rond{
+    border: 1px solid black;
+    background-color:black;
+    border-radius: 60px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 0px 8px 8px 8px;
+    margin-left:  0px;
+}
+
+.submit input[type="submit"]{
+     border: 1px solid black; 
+    background-color:rgb(196, 157, 89); 
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 0px;
+    width: 120px;
+}
+
+.submit p{
+    color: rgb(196, 157, 89);
+}
+
+
